@@ -1,6 +1,0 @@
-Invoking command in '/home/ons/trial_ws/SMU_car3/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ons/trial_ws/SMU_car3/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ons/trial_ws/SMU_car3/install/articubot_one
-Invoked command in '/home/ons/trial_ws/SMU_car3/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ons/trial_ws/SMU_car3/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ons/trial_ws/SMU_car3/install/articubot_one
-Invoking command in '/home/ons/trial_ws/SMU_car3/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ons/trial_ws/SMU_car3/build/articubot_one -- -j4 -l4
-Invoked command in '/home/ons/trial_ws/SMU_car3/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ons/trial_ws/SMU_car3/build/articubot_one -- -j4 -l4
-Invoking command in '/home/ons/trial_ws/SMU_car3/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ons/trial_ws/SMU_car3/build/articubot_one
-Invoked command in '/home/ons/trial_ws/SMU_car3/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ons/trial_ws/SMU_car3/build/articubot_one

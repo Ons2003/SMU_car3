@@ -1,6 +1,0 @@
-Invoking command in '/home/ons/trial_ws/SMU_car3/build/ydlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ons/trial_ws/SMU_car3/src/ydlidar_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ons/trial_ws/SMU_car3/install/ydlidar
-Invoked command in '/home/ons/trial_ws/SMU_car3/build/ydlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ons/trial_ws/SMU_car3/src/ydlidar_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ons/trial_ws/SMU_car3/install/ydlidar
-Invoking command in '/home/ons/trial_ws/SMU_car3/build/ydlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ons/trial_ws/SMU_car3/build/ydlidar -- -j4 -l4
-Invoked command in '/home/ons/trial_ws/SMU_car3/build/ydlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ons/trial_ws/SMU_car3/build/ydlidar -- -j4 -l4
-Invoking command in '/home/ons/trial_ws/SMU_car3/build/ydlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ons/trial_ws/SMU_car3/build/ydlidar
-Invoked command in '/home/ons/trial_ws/SMU_car3/build/ydlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ons/trial_ws/SMU_car3/build/ydlidar

@@ -1,1 +1,0 @@
-/home/ons/trial_ws/SMU_car3/build/articubot_one/ament_cmake_environment_hooks/local_setup.bash

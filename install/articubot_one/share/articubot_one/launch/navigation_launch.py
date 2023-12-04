@@ -1,1 +1,0 @@
-/home/ons/trial_ws/SMU_car3/src/articubot_one/launch/navigation_launch.py

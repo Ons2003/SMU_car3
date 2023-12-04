@@ -1,1 +1,0 @@
-/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs/ament_cmake_core/serial_motor_demo_msgsConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/ons/trial_ws/SMU_car3/src/test_node/launch/test_node_launch_file.launch.py

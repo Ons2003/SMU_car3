@@ -1,3 +1,0 @@
-/home/ons/trial_ws/SMU_car3/install/diffdrive_arduino/lib/libdiffdrive_arduino.so
-/home/ons/trial_ws/SMU_car3/install/diffdrive_arduino/share/diffdrive_arduino/cmake/export_diffdrive_arduinoExport.cmake
-/home/ons/trial_ws/SMU_car3/install/diffdrive_arduino/share/diffdrive_arduino/cmake/export_diffdrive_arduinoExport-noconfig.cmake
