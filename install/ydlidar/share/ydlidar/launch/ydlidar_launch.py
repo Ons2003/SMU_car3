@@ -1,0 +1,1 @@
+/home/ons/trial_ws/SMU_car3/src/ydlidar_ros2/launch/ydlidar_launch.py

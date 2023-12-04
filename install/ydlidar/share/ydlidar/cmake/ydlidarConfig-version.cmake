@@ -1,0 +1,1 @@
+/home/ons/trial_ws/SMU_car3/build/ydlidar/ament_cmake_core/ydlidarConfig-version.cmake

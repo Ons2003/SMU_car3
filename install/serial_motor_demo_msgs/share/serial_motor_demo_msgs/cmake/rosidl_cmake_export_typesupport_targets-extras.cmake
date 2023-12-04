@@ -1,0 +1,1 @@
+/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

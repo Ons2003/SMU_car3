@@ -1,0 +1,250 @@
+[0.263s] Invoking command in '/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ons/trial_ws/SMU_car3/src/serial_motor_demo/serial_motor_demo_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs
+[0.419s] -- The C compiler identification is GNU 11.4.0
+[0.596s] -- The CXX compiler identification is GNU 11.4.0
+[0.613s] -- Detecting C compiler ABI info
+[0.794s] -- Detecting C compiler ABI info - done
+[0.828s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.829s] -- Detecting C compile features
+[0.830s] -- Detecting C compile features - done
+[0.839s] -- Detecting CXX compiler ABI info
+[1.031s] -- Detecting CXX compiler ABI info - done
+[1.061s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.061s] -- Detecting CXX compile features
+[1.062s] -- Detecting CXX compile features - done
+[1.067s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.381s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.479s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.515s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.674s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.679s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.688s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.750s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.120s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.419s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.817s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.852s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.854s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.892s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.892s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.892s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.892s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.920s] -- Found PythonExtra: .so  
+[2.975s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.978s] -- Added test 'lint_cmake' to check CMake code style
+[2.980s] -- Added test 'xmllint' to check XML markup files
+[2.993s] -- Configuring done
+[3.039s] -- Generating done
+[3.042s] -- Build files have been written to: /home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs
+[3.054s] Invoked command in '/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ons/trial_ws/SMU_car3/src/serial_motor_demo/serial_motor_demo_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs
+[3.055s] Invoking command in '/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs -- -j4 -l4
+[3.122s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.126s] [  4%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.133s] [  4%] Built target ament_cmake_python_symlink_serial_motor_demo_msgs
+[3.695s] running egg_info
+[3.696s] creating serial_motor_demo_msgs.egg-info
+[3.696s] writing serial_motor_demo_msgs.egg-info/PKG-INFO
+[3.696s] writing dependency_links to serial_motor_demo_msgs.egg-info/dependency_links.txt
+[3.696s] writing top-level names to serial_motor_demo_msgs.egg-info/top_level.txt
+[3.697s] writing manifest file 'serial_motor_demo_msgs.egg-info/SOURCES.txt'
+[3.700s] reading manifest file 'serial_motor_demo_msgs.egg-info/SOURCES.txt'
+[3.701s] writing manifest file 'serial_motor_demo_msgs.egg-info/SOURCES.txt'
+[3.785s] [  4%] Built target ament_cmake_python_build_serial_motor_demo_msgs_egg
+[3.897s] [  4%] Built target serial_motor_demo_msgs__cpp
+[3.924s] [  6%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.957s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[3.957s] [  8%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.006s] [ 12%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/serial_motor_demo_msgs/msg/detail/motor_command__functions.c.o[0m
+[4.174s] [ 14%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/serial_motor_demo_msgs/msg/detail/motor_vels__functions.c.o[0m
+[4.301s] [ 17%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_generator_c.dir/rosidl_generator_c/serial_motor_demo_msgs/msg/detail/encoder_vals__functions.c.o[0m
+[4.460s] [ 19%] [32m[1mLinking C shared library libserial_motor_demo_msgs__rosidl_generator_c.so[0m
+[4.585s] [ 19%] Built target serial_motor_demo_msgs__rosidl_generator_c
+[4.609s] [ 21%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/serial_motor_demo_msgs/msg/motor_command__type_support.cpp.o[0m
+[4.623s] [ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.854s] [ 25%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/serial_motor_demo_msgs/msg/detail/motor_command__type_support.cpp.o[0m
+[4.870s] [ 27%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/serial_motor_demo_msgs/msg/detail/dds_fastrtps/motor_command__type_support.cpp.o[0m
+[5.290s] [ 29%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/serial_motor_demo_msgs/msg/motor_vels__type_support.cpp.o[0m
+[5.376s] [ 31%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/serial_motor_demo_msgs/msg/detail/motor_command__type_support.c.o[0m
+[5.519s] [ 34%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/serial_motor_demo_msgs/msg/detail/motor_vels__type_support.c.o[0m
+[5.687s] [ 36%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/serial_motor_demo_msgs/msg/detail/encoder_vals__type_support.c.o[0m
+[5.703s] [ 38%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/serial_motor_demo_msgs/msg/detail/dds_fastrtps/motor_vels__type_support.cpp.o[0m
+[5.763s] [ 40%] [32m[1mLinking C shared library libserial_motor_demo_msgs__rosidl_typesupport_introspection_c.so[0m
+[5.818s] [ 40%] Built target serial_motor_demo_msgs__rosidl_typesupport_introspection_c
+[5.835s] [ 42%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.902s] [ 44%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/serial_motor_demo_msgs/msg/encoder_vals__type_support.cpp.o[0m
+[5.976s] [ 46%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/serial_motor_demo_msgs/msg/detail/motor_vels__type_support.cpp.o[0m
+[6.591s] [ 48%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/serial_motor_demo_msgs/msg/detail/dds_fastrtps/encoder_vals__type_support.cpp.o[0m
+[6.594s] [ 51%] [32m[1mLinking CXX shared library libserial_motor_demo_msgs__rosidl_typesupport_cpp.so[0m
+[6.734s] [ 53%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/serial_motor_demo_msgs/msg/motor_command__type_support.cpp.o[0m
+[6.779s] [ 53%] Built target serial_motor_demo_msgs__rosidl_typesupport_cpp
+[6.822s] [ 55%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/serial_motor_demo_msgs/msg/motor_vels__type_support.cpp.o[0m
+[6.873s] [ 57%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/serial_motor_demo_msgs/msg/detail/encoder_vals__type_support.cpp.o[0m
+[6.875s] [ 59%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/serial_motor_demo_msgs/msg/encoder_vals__type_support.cpp.o[0m
+[6.956s] [ 61%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[6.999s] [ 63%] [32m[1mLinking CXX shared library libserial_motor_demo_msgs__rosidl_typesupport_c.so[0m
+[7.199s] [ 63%] Built target serial_motor_demo_msgs__rosidl_typesupport_c
+[7.330s] [ 65%] [32m[1mLinking CXX shared library libserial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[7.571s] [ 65%] Built target serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp
+[7.695s] [ 68%] [32m[1mLinking CXX shared library libserial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[7.995s] [ 68%] Built target serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp
+[8.395s] [ 72%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/serial_motor_demo_msgs/msg/detail/motor_command__type_support_c.cpp.o[0m
+[8.398s] [ 72%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/serial_motor_demo_msgs/msg/detail/motor_vels__type_support_c.cpp.o[0m
+[8.415s] [ 74%] [32mBuilding CXX object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/serial_motor_demo_msgs/msg/detail/encoder_vals__type_support_c.cpp.o[0m
+[10.113s] [ 76%] [32m[1mLinking CXX shared library libserial_motor_demo_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[10.924s] [ 76%] Built target serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c
+[11.143s] [ 76%] Built target serial_motor_demo_msgs
+[11.321s] [ 78%] [34m[1mGenerating Python code for ROS interfaces[0m
+[13.248s] [ 78%] Built target serial_motor_demo_msgs__py
+[13.450s] [ 80%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/serial_motor_demo_msgs/msg/_motor_command_s.c.o[0m
+[13.454s] [ 82%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/serial_motor_demo_msgs/msg/_encoder_vals_s.c.o[0m
+[13.466s] [ 85%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_generator_py.dir/rosidl_generator_py/serial_motor_demo_msgs/msg/_motor_vels_s.c.o[0m
+[14.013s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/serial_motor_demo_msgs/libserial_motor_demo_msgs__rosidl_generator_py.so[0m
+[14.260s] [ 87%] Built target serial_motor_demo_msgs__rosidl_generator_py
+[14.341s] [ 89%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/serial_motor_demo_msgs/_serial_motor_demo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[14.352s] [ 91%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/serial_motor_demo_msgs/_serial_motor_demo_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[14.359s] [ 93%] [32mBuilding C object CMakeFiles/serial_motor_demo_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/serial_motor_demo_msgs/_serial_motor_demo_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[14.732s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[14.751s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[14.761s] [100%] [32m[1mLinking C shared library rosidl_generator_py/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[14.847s] [100%] Built target serial_motor_demo_msgs__rosidl_typesupport_introspection_c__pyext
+[14.864s] [100%] Built target serial_motor_demo_msgs__rosidl_typesupport_c__pyext
+[14.872s] [100%] Built target serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[14.932s] Invoked command in '/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs -- -j4 -l4
+[15.203s] Invoking command in '/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs
+[15.221s] -- Install configuration: ""
+[15.223s] -- Execute custom install script
+[15.224s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/ament_index/resource_index/rosidl_interfaces/serial_motor_demo_msgs
+[15.254s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__functions.h
+[15.272s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__struct.h
+[15.292s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__type_support.h
+[15.310s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__functions.h
+[15.329s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__struct.h
+[15.347s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__type_support.h
+[15.374s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__functions.h
+[15.393s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__struct.h
+[15.411s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__type_support.h
+[15.429s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/encoder_vals.h
+[15.448s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/motor_command.h
+[15.486s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/motor_vels.h
+[15.500s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/rosidl_generator_c__visibility_control.h
+[15.520s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/library_path.sh
+[15.540s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/library_path.dsv
+[15.561s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__rosidl_typesupport_fastrtps_c.h
+[15.582s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__rosidl_typesupport_fastrtps_c.h
+[15.603s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__rosidl_typesupport_fastrtps_c.h
+[15.623s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[15.686s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__rosidl_typesupport_introspection_c.h
+[15.766s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__rosidl_typesupport_introspection_c.h
+[15.791s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__rosidl_typesupport_introspection_c.h
+[15.811s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[15.831s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__builder.hpp
+[15.881s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__struct.hpp
+[15.921s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__traits.hpp
+[15.964s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__builder.hpp
+[16.004s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__struct.hpp
+[16.025s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__traits.hpp
+[16.046s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__builder.hpp
+[16.079s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__struct.hpp
+[16.113s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__traits.hpp
+[16.134s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/encoder_vals.hpp
+[16.166s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/motor_command.hpp
+[16.214s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/motor_vels.hpp
+[16.276s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__rosidl_typesupport_fastrtps_cpp.hpp
+[16.325s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__rosidl_typesupport_fastrtps_cpp.hpp
+[16.370s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__rosidl_typesupport_fastrtps_cpp.hpp
+[16.390s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[16.410s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/encoder_vals__rosidl_typesupport_introspection_cpp.hpp
+[16.459s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_command__rosidl_typesupport_introspection_cpp.hpp
+[16.483s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/serial_motor_demo_msgs/msg/detail/motor_vels__rosidl_typesupport_introspection_cpp.hpp
+[16.535s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/pythonpath.sh
+[16.573s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/pythonpath.dsv
+[16.608s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[16.648s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[16.679s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[16.724s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[16.759s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/__init__.py
+[16.779s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/_serial_motor_demo_msgs_s.ep.rosidl_typesupport_c.c
+[16.804s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/_serial_motor_demo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[16.824s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/_serial_motor_demo_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[16.864s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/libserial_motor_demo_msgs__rosidl_generator_py.so
+[16.885s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/__init__.py
+[16.906s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_encoder_vals.py
+[16.935s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_encoder_vals_s.c
+[16.958s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_motor_command.py
+[16.979s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_motor_command_s.c
+[17.007s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_motor_vels.py
+[17.029s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_motor_vels_s.c
+[17.051s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[17.077s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[17.100s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[17.123s] -- Up-to-date symlink: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[17.125s] -- Up-to-date symlink: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[17.126s] -- Up-to-date symlink: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/serial_motor_demo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[17.127s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/msg/MotorCommand.idl
+[17.155s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/msg/MotorVels.idl
+[17.175s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/msg/EncoderVals.idl
+[17.198s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/msg/MotorCommand.msg
+[17.225s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/msg/MotorVels.msg
+[17.250s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/msg/EncoderVals.msg
+[17.271s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/ament_index/resource_index/package_run_dependencies/serial_motor_demo_msgs
+[17.292s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/ament_index/resource_index/parent_prefix_path/serial_motor_demo_msgs
+[17.312s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/ament_prefix_path.sh
+[17.333s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/ament_prefix_path.dsv
+[17.353s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/path.sh
+[17.376s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/environment/path.dsv
+[17.396s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/local_setup.bash
+[17.418s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/local_setup.sh
+[17.443s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/local_setup.zsh
+[17.465s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/local_setup.dsv
+[17.486s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/package.dsv
+[17.506s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/ament_index/resource_index/packages/serial_motor_demo_msgs
+[17.532s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/rosidl_cmake-extras.cmake
+[17.553s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[17.574s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[17.594s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[17.614s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[17.637s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[17.657s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[17.677s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgsConfig.cmake
+[17.721s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgsConfig-version.cmake
+[17.743s] -- Symlinking: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/package.xml
+[17.763s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_generator_c.so
+[17.765s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_generator_c.so" to ""
+[17.765s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_fastrtps_c.so
+[17.767s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[17.767s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_introspection_c.so
+[17.768s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_introspection_c.so" to ""
+[17.769s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_c.so
+[17.770s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_c.so" to ""
+[17.771s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp.so
+[17.773s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[17.773s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.so
+[17.774s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[17.775s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_cpp.so
+[17.776s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_cpp.so" to ""
+[17.902s] Listing '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs'...
+[17.902s] Compiling '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/__init__.py'...
+[17.902s] Listing '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg'...
+[17.902s] Compiling '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/__init__.py'...
+[17.903s] Compiling '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_encoder_vals.py'...
+[17.903s] Compiling '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_motor_command.py'...
+[17.903s] Compiling '/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages/serial_motor_demo_msgs/msg/_motor_vels.py'...
+[17.914s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_generator_py.so
+[17.915s] -- Set runtime path of "/home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_generator_py.so" to ""
+[17.916s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_generator_cExport.cmake
+[17.918s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_generator_cExport-noconfig.cmake
+[17.920s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[17.921s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[17.922s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cExport.cmake
+[17.923s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[17.924s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cExport.cmake
+[17.925s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[17.926s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_generator_cppExport.cmake
+[17.928s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[17.929s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[17.930s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[17.931s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[17.932s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cppExport.cmake
+[17.933s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[17.934s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_generator_pyExport.cmake
+[17.935s] -- Installing: /home/ons/trial_ws/SMU_car3/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/export_serial_motor_demo_msgs__rosidl_generator_pyExport-noconfig.cmake
+[17.950s] Invoked command in '/home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ons/trial_ws/SMU_car3/build/serial_motor_demo_msgs

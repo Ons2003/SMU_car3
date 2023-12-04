@@ -1,0 +1,26 @@
+[1.769s] Invoking command in '/home/ons/trial_ws/SMU_car3/build/test_node': PYTHONPATH=/home/ons/trial_ws/SMU_car3/build/test_node/prefix_override:/home/ons/trial_ws/SMU_car3/install/test_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ons/trial_ws/SMU_car3/build/test_node/build --no-deps install_data
+[2.227s] running develop
+[2.502s] running egg_info
+[2.502s] creating test_node.egg-info
+[2.504s] writing test_node.egg-info/PKG-INFO
+[2.504s] writing dependency_links to test_node.egg-info/dependency_links.txt
+[2.504s] writing entry points to test_node.egg-info/entry_points.txt
+[2.504s] writing requirements to test_node.egg-info/requires.txt
+[2.504s] writing top-level names to test_node.egg-info/top_level.txt
+[2.505s] writing manifest file 'test_node.egg-info/SOURCES.txt'
+[2.508s] reading manifest file 'test_node.egg-info/SOURCES.txt'
+[2.509s] writing manifest file 'test_node.egg-info/SOURCES.txt'
+[2.513s] running build_ext
+[2.513s] Creating /home/ons/trial_ws/SMU_car3/install/test_node/lib/python3.10/site-packages/test-node.egg-link (link to .)
+[2.514s] Installing main_node script to /home/ons/trial_ws/SMU_car3/install/test_node/lib/test_node
+[2.515s] 
+[2.515s] Installed /home/ons/trial_ws/SMU_car3/build/test_node
+[2.515s] running install_data
+[2.515s] creating /home/ons/trial_ws/SMU_car3/install/test_node/share/ament_index
+[2.515s] creating /home/ons/trial_ws/SMU_car3/install/test_node/share/ament_index/resource_index
+[2.515s] creating /home/ons/trial_ws/SMU_car3/install/test_node/share/ament_index/resource_index/packages
+[2.516s] copying resource/test_node -> /home/ons/trial_ws/SMU_car3/install/test_node/share/ament_index/resource_index/packages
+[2.516s] copying package.xml -> /home/ons/trial_ws/SMU_car3/install/test_node/share/test_node
+[2.516s] creating /home/ons/trial_ws/SMU_car3/install/test_node/share/test_node/launch
+[2.516s] copying launch/test_node_launch_file.launch.py -> /home/ons/trial_ws/SMU_car3/install/test_node/share/test_node/launch
+[2.692s] Invoked command in '/home/ons/trial_ws/SMU_car3/build/test_node' returned '0': PYTHONPATH=/home/ons/trial_ws/SMU_car3/build/test_node/prefix_override:/home/ons/trial_ws/SMU_car3/install/test_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ons/trial_ws/SMU_car3/build/test_node/build --no-deps install_data

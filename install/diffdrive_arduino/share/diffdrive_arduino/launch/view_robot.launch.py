@@ -1,0 +1,1 @@
+/home/ons/trial_ws/SMU_car3/src/diffdrive_arduino/description/launch/view_robot.launch.py
