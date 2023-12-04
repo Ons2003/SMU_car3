@@ -43,7 +43,7 @@ class SimplePublisher(Node):
         self.publisher_.publish(msg)
 
         led_number = 1 
-        print("Sending number " + str(led_number) + " to Arduino.")
+        print("Sending number g11 " + str(led_number) + " to Arduino.")
 
         ser.write(str(led_number).encode('utf-8'))
 
